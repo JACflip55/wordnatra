@@ -3,3 +3,4 @@ config
 config/deploy.rb
 wordnatra.tmproj
 database.yml
+.sass-cache
